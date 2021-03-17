@@ -1,0 +1,233 @@
+{% extends "blog/base.html" %}
+{% load static %}
+{% block content %}
+<div class="feedback">
+    <div class="center w-container">
+      <div>
+        <h1 class="main-header">Выполним срочный ремонт спецтехники любой сложности с гарантией.
+        </h1> 
+      </div>
+      <div class="w-row">
+        <div class="w-col w-col-6">
+          <div class="feedback-block-image w-clearfix">
+            <img class="feedback-image" src="{% static 'images/spectehnika5.png' %}" />
+          </div>
+        </div>
+        <div class="w-clearfix w-col w-col-6">
+          <div class="contact-form w-form">
+            <div class="feedback-text">Запишитесь на ремонт спецтехники. Свяжемся с вами в течение 5 минут</div>
+          <form method="post" novalidate="novalidate">
+            {% csrf_token %}
+            {{ form }}
+            <input type="submit" value="ЗАПИСАТЬСЯ НА РЕМОНТ" class="submit-button w-button" />
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="main">
+    <div class="w-container">
+      <a id="machinery" class="anchor" href="#">
+      </a>
+      <h3 class="main-machine-header">РЕМОНТИРУЕМАЯ И ОБСЛУЖИВАЕМАЯ СПЕЦТЕХНИКА
+      </h3>
+      <div class="main-machine-block w-row">
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/excavator_loader.svg' %}" width="300" />
+          <div>ЭКСКАВАТОРЫ ПОГРУЗЧИКИ
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/grayder.svg' %}" width="300" />
+          <div>ГРЕЙДЕРЫ
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/tele_loader.svg' %}" width="300" />
+          <div>ТЕЛЕСКОПИЧЕСКИЕ ПОГРУЗЧИКИ
+          </div>
+        </div>
+      </div>
+      <div class="main-machine-block w-row">
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/buldozer.svg' %}" width="300" />
+          <div>БУЛЬДОЗЕРЫ
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/excavator.svg' %}" width="300" />
+          <div>ЭКСКАВАТОРЫ
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/mini_loader.svg' %}" width="300" />
+          <div>МИНИ ПОГРУЗЧИКИ
+          </div>
+        </div>
+      </div>
+      <div class="main-machine-block w-row">
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/front_loader.svg' %}" width="300" />
+          <div>ФРОНТАЛЬНЫЕ ПОГРУЗЧИКИ
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/wheel_excavator.svg' %}" width="300" />
+          <div>КОЛЕСНЫЕ ЭКСКАВАТОРЫ
+          </div>
+        </div>
+        <div class="w-col w-col-4">
+          <img src="{% static 'images/forklift.svg' %}" width="300" />
+          <div>ВИЛОЧНЫЕ ПОГРУЗЧИКИ
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="brands">
+    <div class="w-container">
+      <a id="brands" class="anchor" href="#">
+      </a>
+      <h3 class="brand-header">РЕМОНТИРУЕМ И ОБСЛУЖИВАЕМ ВЕДУЩИЕ МАРКИ
+      </h3>
+      <div class="brand-row w-row">
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/hitachi.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/jcb.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/bobcat.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/caterpillar.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/doosan.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/hidromek.svg' %}" />
+        </div>
+      </div>
+      <div class="brand-row w-row">
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/ensign.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/hyundai.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/komatsu.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/liugong.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/lonking.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/shantui.svg' %}" />
+        </div>
+      </div>
+      <div class="brand-row w-row">
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/terex.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/volvo.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/xcmg.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/xgma.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+          <img src="{% static 'images/sdlg.svg' %}" />
+        </div>
+        <div class="w-col w-col-2">
+        </div>
+      </div>
+      <div class="brand-button-block">
+        <a class="brand-button w-button" href="#" data-ix="hower">ЗАПИСАТЬСЯ НА РЕМОНТ
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="work">
+    <div class="w-container">
+      <a id="works" class="anchor" href="#">
+      </a>
+      <h3 class="brand-header">ВИДЫ РАБОТ:
+      </h3>
+      <ul class="work-block-list">
+        <li>Все виды ремонта: средний, агрегатный и капитальный ремонт
+        </li>
+        <li>Ремонт ДВС
+        </li>
+        <li>Ремонт трансмисии в том числе АКПП
+        </li>
+        <li>Ремонт ходовой части
+        </li>
+        <li>Ремонт стрел, навесного оборудования и рабочих органов
+        </li>
+        <li>Ремонт гидравлики с изготовлением штоков цилиндров
+        </li>
+        <li>Ремонт электрики
+        </li>
+        <li>Восстановление проушин и шарнирных соединений методом наплавки и расточки
+        </li>
+        <li>Токарно-фрезерные работы
+        </li>
+        <li>Сварочные работы
+        </li>
+        <li>Ремонт и заправка автокондиционеров с выездом на место базирования техники
+        </li>
+        <li>Диагностика технического состояния, включая компьютерную диагностику
+        </li>
+        <li>Выявление неисправностей и оценка износа деталей, узлов и механизмов
+        </li>
+        <li>Консультирование и обучение обслуживающего персонала.
+        </li>
+      </ul>
+      <h3 class="brand-header">Наша миссия - решение задач наших клиентов в минимальные сроки на наиболее оптимальных условиях.
+      </h3>
+      <div class="work-block-text">Для удобства клиентов действует оперативная выездная бригада. На месте сделаем диагностику технического состояния и устраним мелкие неисправности. Составляем техническое заключение с указанием причины поломки, объема предполагаемых работ и срока ремонта. Ремонтно-восстановительная служба предоставляет квалифицированное техническое обслуживание и ремонт. В техническое оснащение нашей производственной базы входит все необходимое для обслуживания и ремонта, включая ремонт сложных узлов. 
+      </div>
+    </div>
+  </div>
+  <div class="garantee">
+    <div class="w-container">
+      <h3 class="garantee-header">ГАРАНТИЯ НА ВЫПОЛНЕННЫЕ РАБОТЫ - ДО 6 МЕСЯЦЕВ
+      </h3> 
+    </div>
+  </div>
+  <div class="sertificate">
+    <div class="w-container">
+      <h3 class="brand-header">СЕРТИФИКАТЫ НА ВЫПОЛНЕНИЕ ТЕХНИЧЕСКОГО ОБСЛУЖИВАНИЯ И РЕМОНТА
+      </h3> 
+      <img class="certificate-image" src="{% static 'images/sertificate-1.jpg' %}" /> 
+      <img class="certificate-image" src="{% static 'images/sertificate-2.jpg' %}" /> 
+      <img class="certificate-image" src="{% static 'images/sertificate-3.jpg' %}" /> 
+      <img class="certificate-image" src="{% static 'images/sertificate-4.jpg' %}" /> 
+    </div>
+  </div>
+  
+{% endblock %}
+
+
+<div class="feedback">
+  <div class="center w-container">
+    <div>
+      <h1 class="main-header">
+        Выполним срочный ремонт двигателя любой сложности с гарантией.
+      </h1>
+    </div>
+    <div class="w-row">
+      <div class="w-col w-col-6">
+        <div class="feedback-block-image w-clearfix">
+          <img class="feedback-image" src="../static/images/jcb-ecomaxt401_10716709.jpg" alt="" width="600">
+        </div>
+      </div>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="150px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 200 150"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil9 {fill:#2B2A29}
+    .fil113 {fill:#F7EDCB}
+    .fil21 {fill:#D2D4DD}
+    .fil17 {fill:#BF984B}
+    .fil2 {fill:#676E70}
+    .fil19 {fill:#404342}
+    .fil42 {fill:#2B2A29;fill-rule:nonzero}
+    .fil11 {fill:#F7EDCB;fill-rule:nonzero}
+    .fil77 {fill:url(#id0)}
+    .fil27 {fill:url(#id1)}
+    .fil99 {fill:url(#id2)}
+    .fil91 {fill:url(#id3)}
+    .fil88 {fill:url(#id4)}
+    .fil103 {fill:url(#id5)}
+    .fil7 {fill:url(#id6)}
+    .fil45 {fill:url(#id7)}
+    .fil121 {fill:url(#id8)}
+    .fil40 {fill:url(#id9)}
+    .fil105 {fill:url(#id10)}
+    .fil31 {fill:url(#id11)}
+    .fil41 {fill:url(#id12)}
+    .fil10 {fill:url(#id13)}
+    .fil0 {fill:url(#id14)}
+    .fil47 {fill:url(#id15)}
+    .fil6 {fill:url(#id16)}
+    .fil12 {fill:url(#id17)}
+    .fil74 {fill:url(#id18)}
+    .fil112 {fill:url(#id19)}
+    .fil14 {fill:url(#id20)}
+    .fil110 {fill:url(#id21)}
+    .fil97 {fill:url(#id22)}
+    .fil65 {fill:url(#id23)}
+    .fil67 {fill:url(#id24)}
+    .fil78 {fill:url(#id25)}
+    .fil92 {fill:url(#id26)}
+    .fil82 {fill:url(#id27)}
+    .fil98 {fill:url(#id28)}
+    .fil118 {fill:url(#id29)}
+    .fil30 {fill:url(#id30)}
+    .fil38 {fill:url(#id31)}
+    .fil80 {fill:url(#id32)}
+    .fil33 {fill:url(#id33)}
+    .fil25 {fill:url(#id34)}
+    .fil115 {fill:url(#id35)}
+    .fil120 {fill:url(#id36)}
+    .fil23 {fill:url(#id37)}
+    .fil73 {fill:url(#id38)}
+    .fil20 {fill:url(#id39)}
+    .fil84 {fill:url(#id40)}
+    .fil39 {fill:url(#id41)}
+    .fil18 {fill:url(#id42)}
+    .fil87 {fill:url(#id43)}
+    .fil61 {fill:url(#id44)}
+    .fil24 {fill:url(#id45)}
+    .fil62 {fill:url(#id46)}
+    .fil15 {fill:url(#id47)}
+    .fil16 {fill:url(#id48)}
+    .fil51 {fill:url(#id49)}
+    .fil83 {fill:url(#id50)}
+    .fil125 {fill:url(#id51)}
+    .fil95 {fill:url(#id52)}
+    .fil100 {fill:url(#id53)}
+    .fil71 {fill:url(#id54)}
+    .fil111 {fill:url(#id55)}
+    .fil52 {fill:url(#id56)}
+    .fil109 {fill:url(#id57)}
+    .fil79 {fill:url(#id58)}
+    .fil126 {fill:url(#id59)}
+    .fil108 {fill:url(#id60)}
+    .fil107 {fill:url(#id61)}
+    .fil49 {fill:url(#id62)}
+    .fil50 {fill:url(#id63)}
+    .fil5 {fill:url(#id64)}
+    .fil86 {fill:url(#id65)}
+    .fil54 {fill:url(#id66)}
+    .fil36 {fill:url(#id67)}
+    .fil93 {fill:url(#id68)}
+    .fil57 {fill:url(#id69)}
+    .fil22 {fill:url(#id70)}
+    .fil90 {fill:url(#id71)}
+    .fil114 {fill:url(#id72)}
+    .fil124 {fill:url(#id73)}
+    .fil104 {fill:url(#id74)}
+    .fil119 {fill:url(#id75)}
+    .fil76 {fill:url(#id76)}
+    .fil81 {fill:url(#id77)}
+    .fil34 {fill:url(#id78)}
+    .fil8 {fill:url(#id79)}
+    .fil101 {fill:url(#id80)}
+    .fil59 {fill:url(#id81)}
+    .fil116 {fill:url(#id82)}
+    .fil75 {fill:url(#id83)}
+    .fil55 {fill:url(#id84)}
+    .fil13 {fill:url(#id85)}
+    .fil1 {fill:url(#id86)}
+    .fil89 {fill:url(#id87)}
+    .fil106 {fill:url(#id88)}
+    .fil58 {fill:url(#id89)}
+    .fil44 {fill:url(#id90)}
+    .fil68 {fill:url(#id91)}
+    .fil123 {fill:url(#id92)}
+    .fil122 {fill:url(#id93)}
+    .fil56 {fill:url(#id94)}
+    .fil48 {fill:url(#id95)}
+    .fil28 {fill:url(#id96)}
+    .fil70 {fill:url(#id97)}
+    .fil43 {fill:url(#id98)}
+    .fil26 {fill:url(#id99)}
+    .fil69 {fill:url(#id100)}
+    .fil29 {fill:url(#id101)}
+    .fil117 {fill:url(#id102)}
+    .fil64 {fill:url(#id103)}
+    .fil63 {fill:url(#id104)}
+    .fil46 {fill:url(#id105)}
+    .fil72 {fill:url(#id106)}
+    .fil32 {fill:url(#id107)}
+    .fil66 {fill:url(#id108)}
+    .fil96 {fill:url(#id109)}
+    .fil37 {fill:url(#id110)}
+    .fil102 {fill:url(#id111)}
+    .fil35 {fill:url(#id112)}
+    .fil85 {fill:url(#id113)}
+    .fil94 {fill:url(#id114)}
+    .fil60 {fill:url(#id115)}
+    .fil53 {fill:url(#id116)}
+    .fil4 {fill:url(#id117)}
+    .fil3 {fill:url(#id118)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="75.9527" y1="118.757" x2="75.9527" y2="115.794">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FAD60B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F0B921"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="145.066" y1="127.84" x2="145.066" y2="133.942">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="143.451" y1="118.757" x2="143.451" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="118.906" y1="118.757" x2="118.906" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="109.702" y1="118.757" x2="109.702" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="156.14" y1="116.27" x2="157.598" y2="113.639">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="147.002" y1="63.4402" x2="147.002" y2="75.4697">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B5B3B1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="111.788" y1="135.404" x2="111.788" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="83.2453" y1="105.851" x2="85.3229" y2="107.788">
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" x1="97.075" y1="134.232" x2="97.3483" y2="129.022">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FAD60B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="164.002" y1="117.672" x2="166.877" y2="116.848">
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="134.316" y1="127.84" x2="134.316" y2="133.942">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="151.223" y1="122.35" x2="151.223" y2="131.791">
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="186.375" y1="86.0278" x2="186.375" y2="121.545">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="74.6435" y1="116.11" x2="74.6435" y2="118.201">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D19032"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F4C617"/>
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="117.931" y1="135.404" x2="117.931" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id16" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="145.27" y1="102.538" x2="136.397" y2="106.684">
+  </linearGradient>
+  <linearGradient id="id17" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="82.3813" y1="87.8435" x2="82.3813" y2="113.791">
+  </linearGradient>
+  <linearGradient id="id18" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="71.8497" y1="127.26" x2="69.4357" y2="125.505">
+  </linearGradient>
+  <linearGradient id="id19" gradientUnits="userSpaceOnUse" x1="112.522" y1="89.1826" x2="112.522" y2="91.7311">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5F6262"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#212220"/>
+  </linearGradient>
+  <linearGradient id="id20" gradientUnits="userSpaceOnUse" xlink:href="#id19" x1="166.876" y1="126.656" x2="166.876" y2="135.05">
+  </linearGradient>
+  <linearGradient id="id21" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="166.707" y1="133.52" x2="167.422" y2="136.389">
+  </linearGradient>
+  <linearGradient id="id22" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="137.313" y1="118.757" x2="137.313" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id23" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="90.3255" y1="135.404" x2="90.3255" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id24" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="96.468" y1="135.404" x2="96.468" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id25" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="79.0221" y1="118.757" x2="79.0221" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id26" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="121.973" y1="118.757" x2="121.973" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id27" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="91.2927" y1="118.757" x2="91.2927" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id28" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="140.382" y1="118.757" x2="140.382" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id29" gradientUnits="userSpaceOnUse" x1="73.3687" y1="111.963" x2="73.346" y2="110.674">
+   <stop offset="0" style="stop-opacity:1; stop-color:#808384"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FEFEFE"/>
+  </linearGradient>
+  <linearGradient id="id30" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="115.937" y1="140.75" x2="116.726" y2="125.69">
+  </linearGradient>
+  <linearGradient id="id31" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="94.0642" y1="140.744" x2="94.853" y2="125.687">
+  </linearGradient>
+  <linearGradient id="id32" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="85.1582" y1="118.757" x2="85.1582" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id33" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="104.964" y1="140.747" x2="105.754" y2="125.687">
+  </linearGradient>
+  <linearGradient id="id34" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="150.247" y1="133.563" x2="150.791" y2="123.198">
+  </linearGradient>
+  <linearGradient id="id35" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="120.364" y1="89.2782" x2="120.364" y2="131.393">
+  </linearGradient>
+  <linearGradient id="id36" gradientUnits="userSpaceOnUse" xlink:href="#id19" x1="115.312" y1="109.624" x2="115.312" y2="111.926">
+  </linearGradient>
+  <linearGradient id="id37" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="144.26" y1="146.519" x2="145.829" y2="116.57">
+  </linearGradient>
+  <linearGradient id="id38" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="73.4567" y1="133.927" x2="70.4932" y2="133.719">
+  </linearGradient>
+  <linearGradient id="id39" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="73.623" y1="133.563" x2="74.1665" y2="123.198">
+  </linearGradient>
+  <linearGradient id="id40" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="97.428" y1="118.757" x2="97.428" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id41" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="112.444" y1="127.84" x2="112.444" y2="133.942">
+  </linearGradient>
+  <linearGradient id="id42" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="93.6065" y1="120.572" x2="93.6065" y2="132.707">
+  </linearGradient>
+  <linearGradient id="id43" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="106.633" y1="118.757" x2="106.633" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id44" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="160.929" y1="135.404" x2="160.929" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id45" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="170.229" y1="120.572" x2="170.229" y2="132.707">
+  </linearGradient>
+  <linearGradient id="id46" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="163.999" y1="135.404" x2="163.999" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id47" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="96.4374" y1="117.556" x2="96.4374" y2="135.364">
+  </linearGradient>
+  <linearGradient id="id48" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="67.6351" y1="146.519" x2="69.204" y2="116.57">
+  </linearGradient>
+  <linearGradient id="id49" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="130.217" y1="135.404" x2="130.217" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id50" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="94.3621" y1="118.757" x2="94.3621" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id51" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="118.395" y1="88.2048" x2="121.411" y2="91.0161">
+  </linearGradient>
+  <linearGradient id="id52" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="131.177" y1="118.757" x2="131.177" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id53" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="146.517" y1="118.757" x2="146.517" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id54" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="76.3057" y1="136.395" x2="73.4469" y2="137.27">
+  </linearGradient>
+  <linearGradient id="id55" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="65.192" y1="91.6733" x2="65.1693" y2="90.3777">
+  </linearGradient>
+  <linearGradient id="id56" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="133.284" y1="135.404" x2="133.284" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id57" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="168.234" y1="130.398" x2="169.877" y2="132.927">
+  </linearGradient>
+  <linearGradient id="id58" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="82.0907" y1="118.757" x2="82.0907" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id59" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="118.949" y1="87.5778" x2="122.288" y2="90.6903">
+  </linearGradient>
+  <linearGradient id="id60" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="168.242" y1="126.817" x2="170.687" y2="128.529">
+  </linearGradient>
+  <linearGradient id="id61" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="166.635" y1="120.182" x2="169.604" y2="120.338">
+  </linearGradient>
+  <linearGradient id="id62" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="124.076" y1="135.404" x2="124.076" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id63" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="127.144" y1="135.404" x2="127.144" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id64" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="145.349" y1="102.584" x2="135.999" y2="106.747">
+  </linearGradient>
+  <linearGradient id="id65" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="103.566" y1="118.757" x2="103.566" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id66" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="139.429" y1="135.404" x2="139.429" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id67" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="107.972" y1="134.232" x2="108.245" y2="129.022">
+  </linearGradient>
+  <linearGradient id="id68" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="125.042" y1="118.757" x2="125.042" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id69" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="148.64" y1="135.404" x2="148.64" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id70" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="173.065" y1="117.556" x2="173.065" y2="135.364">
+  </linearGradient>
+  <linearGradient id="id71" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="115.837" y1="118.757" x2="115.837" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id72" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="75.063" y1="85.5539" x2="77.1403" y2="87.4905">
+  </linearGradient>
+  <linearGradient id="id73" gradientUnits="userSpaceOnUse" x1="174.145" y1="94.4399" x2="174.145" y2="111.255">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FAD60B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F8EDC3"/>
+  </linearGradient>
+  <linearGradient id="id74" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="160.586" y1="116.165" x2="162.998" y2="114.476">
+  </linearGradient>
+  <linearGradient id="id75" gradientUnits="userSpaceOnUse" xlink:href="#id19" x1="119.22" y1="109.478" x2="119.22" y2="112.025">
+  </linearGradient>
+  <linearGradient id="id76" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="73.4386" y1="120.488" x2="72.7738" y2="117.608">
+  </linearGradient>
+  <linearGradient id="id77" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="88.2268" y1="118.757" x2="88.2268" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id78" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="104.965" y1="140.747" x2="105.754" y2="125.688">
+  </linearGradient>
+  <linearGradient id="id79" gradientUnits="userSpaceOnUse" x1="112.273" y1="79.9927" x2="112.273" y2="74.041">
+   <stop offset="0" style="stop-opacity:1; stop-color:#CCC7C7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7F7F7C"/>
+  </linearGradient>
+  <linearGradient id="id80" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="149.586" y1="118.757" x2="149.586" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id81" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="154.785" y1="135.404" x2="154.785" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id82" gradientUnits="userSpaceOnUse" x1="49.8849" y1="136.882" x2="49.8849" y2="95.076">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D19032"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9A6433"/>
+  </linearGradient>
+  <linearGradient id="id83" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="71.8856" y1="123.63" x2="70.2899" y2="121.076">
+  </linearGradient>
+  <linearGradient id="id84" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="142.497" y1="135.404" x2="142.497" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id85" gradientUnits="userSpaceOnUse" xlink:href="#id82" x1="75.4792" y1="123.839" x2="75.4792" y2="114.098">
+  </linearGradient>
+  <linearGradient id="id86" gradientUnits="userSpaceOnUse" xlink:href="#id19" x1="61.4911" y1="108.376" x2="64.9301" y2="135.95">
+  </linearGradient>
+  <linearGradient id="id87" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="112.77" y1="118.757" x2="112.77" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id88" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="167.714" y1="123.156" x2="170.532" y2="124.017">
+  </linearGradient>
+  <linearGradient id="id89" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="151.713" y1="135.404" x2="151.713" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id90" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="108.717" y1="135.404" x2="108.717" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id91" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="99.5385" y1="135.404" x2="99.5385" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id92" gradientUnits="userSpaceOnUse" xlink:href="#id73" x1="180.66" y1="94.4377" x2="180.66" y2="112.753">
+  </linearGradient>
+  <linearGradient id="id93" gradientUnits="userSpaceOnUse" xlink:href="#id14" x1="180.66" y1="98.6416" x2="180.66" y2="117.388">
+  </linearGradient>
+  <linearGradient id="id94" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="145.573" y1="135.404" x2="145.573" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id95" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="121" y1="135.404" x2="121" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id96" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="129.699" y1="134.232" x2="129.972" y2="129.022">
+  </linearGradient>
+  <linearGradient id="id97" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="79.7054" y1="137.875" x2="77.3224" y2="139.606">
+  </linearGradient>
+  <linearGradient id="id98" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="105.647" y1="135.404" x2="105.647" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id99" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="126.689" y1="140.75" x2="127.479" y2="125.69">
+  </linearGradient>
+  <linearGradient id="id100" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="102.611" y1="135.404" x2="102.611" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id101" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="115.937" y1="140.75" x2="116.726" y2="125.69">
+  </linearGradient>
+  <linearGradient id="id102" gradientUnits="userSpaceOnUse" xlink:href="#id82" x1="49.9031" y1="137.12" x2="49.9031" y2="95.0692">
+  </linearGradient>
+  <linearGradient id="id103" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="87.3476" y1="136.329" x2="86.8839" y2="139.262">
+  </linearGradient>
+  <linearGradient id="id104" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="84.0863" y1="137.723" x2="82.675" y2="140.377">
+  </linearGradient>
+  <linearGradient id="id105" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="114.86" y1="135.404" x2="114.86" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id106" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="72.3773" y1="130.934" x2="69.5763" y2="130.024">
+  </linearGradient>
+  <linearGradient id="id107" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="118.95" y1="134.232" x2="119.223" y2="129.022">
+  </linearGradient>
+  <linearGradient id="id108" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="93.3949" y1="135.404" x2="93.3949" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id109" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="134.245" y1="118.757" x2="134.245" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id110" gradientUnits="userSpaceOnUse" xlink:href="#id9" x1="94.0642" y1="140.744" x2="94.8538" y2="125.686">
+  </linearGradient>
+  <linearGradient id="id111" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="152.652" y1="118.757" x2="152.652" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id112" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="123.344" y1="127.84" x2="123.344" y2="133.941">
+  </linearGradient>
+  <linearGradient id="id113" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="100.497" y1="118.757" x2="100.497" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id114" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="128.108" y1="118.757" x2="128.108" y2="115.794">
+  </linearGradient>
+  <linearGradient id="id115" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="157.856" y1="135.404" x2="157.856" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id116" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="136.359" y1="135.404" x2="136.359" y2="138.368">
+  </linearGradient>
+  <linearGradient id="id117" gradientUnits="userSpaceOnUse" xlink:href="#id14" x1="119.627" y1="96.5349" x2="121.639" y2="110.853">
+  </linearGradient>
+  <linearGradient id="id118" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="123.427" y1="87.7373" x2="123.427" y2="95.0609">
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="49,118 69,118 69,116 49,116 "/>
+  <path class="fil1" d="M49 111c0,0 7,8 7,9 1,0 2,2 2,6 0,3 0,7 0,7 0,0 -3,1 -6,2 -3,1 -8,0 -8,0 0,0 5,-24 5,-24z"/>
+  <path class="fil2" d="M19 140l11 -1 1 -2c0,0 18,3 21,-5 3,-8 -3,-22 -3,-22l-14 -6 -1 1 6 4 -12 25c0,0 -1,-1 -2,1 -1,1 -2,3 -5,3 -2,0 -2,2 -2,2z"/>
+  <polygon class="fil3" points="84,95 118,95 118,88 84,88 "/>
+  <polygon class="fil4" points="78,116 114,116 114,96 78,96 "/>
+  <polygon class="fil5" points="119,82 121,66 118,63 118,61 147,61 147,96 117,96 "/>
+  <path class="fil6" d="M144 64c-1,-1 -3,-1 -3,-1l-18 0c0,0 -3,0 -4,3 -2,7 -5,18 -2,25l27 -9 0 -18z"/>
+  <path class="fil7" d="M139 65l-3 0 0 14 6 0 0 -12c0,-1 -1,-2 -3,-2l0 0zm-5 0l-10 0c0,0 -2,0 -3,3 -1,3 -4,11 -3,17l16 -6 0 -14z"/>
+  <path class="fil8" d="M136 74l0 5 6 0 0 -5 -6 0 0 0zm-17 0l15 0 0 5 -16 6c-1,-4 0,-8 1,-11z"/>
+  <path class="fil9" d="M136 76l0 3 1 0 0 -3c0,0 0,0 -1,0l0 0zm-18 1c1,1 2,2 3,2 0,1 1,1 1,1l1 -4 2 1 -1 1 1 1 1 0 -1 2 2 1 -9 3c-1,-2 0,-5 0,-8l0 0zm15 3c0,-2 0,-4 0,-4 1,0 1,0 1,0l0 3 -1 1z"/>
+  <path class="fil10" d="M112 115c0,0 0,-21 0,-23 1,-2 2,-4 4,-5 2,0 5,0 5,0l57 0 3 25 -5 11 -18 0 -46 -8z"/>
+  <path class="fil11" d="M112 92c0,-1 1,-2 1,-3l0 0c1,-1 2,-2 3,-2 2,-1 5,-1 5,-1l57 0 0 1 3 25 0 0 -4 -25 -56 0 0 0c0,0 -2,0 -5,1 -1,0 -1,1 -2,1l0 0c-1,1 -1,2 -1,3l-1 0z"/>
+  <path class="fil12" d="M71 115c0,0 -4,-5 -5,-9 -1,-4 1,-16 1,-18 0,-1 3,-3 5,3 2,7 5,14 5,14l-6 10z"/>
+  <polygon class="fil13" points="81,123 162,123 162,114 81,114 "/>
+  <polygon class="fil14" points="77,135 162,135 162,120 77,120 "/>
+  <path class="fil15" d="M87 120l-1 -1 -1 1 2 1 0 -1 0 0zm-12 2l-1 1 1 1 1 -2 -1 0 0 0zm3 -3l-1 1 1 1 1 -1 -1 -1 0 0zm5 -1l-2 0 0 1 2 0 0 -1zm-10 8l0 2 1 0 0 -2 -1 0 0 0zm1 5l1 1 1 0 -1 -2 -1 1 0 0zm3 3l1 1 1 -1 -1 -1 -1 1 0 0zm4 2l2 0 0 -1 -2 0 0 1 0 0zm5 -1l1 -1 0 -1 -2 1 1 1 0 0zm3 -3l1 -1 -1 -1 -1 2 1 0 0 0zm2 -4l0 -2 -1 0 0 2 1 0 0 0zm-1 -5l-1 -1 -1 0 1 2 1 -1z"/>
+  <path class="fil16" d="M82 135c4,0 8,-4 8,-8 0,-4 -4,-8 -8,-8 -4,0 -8,4 -8,8 0,4 4,8 8,8z"/>
+  <path class="fil17" d="M82 134c4,0 7,-3 7,-7 0,-4 -3,-7 -7,-7 -4,0 -7,3 -7,7 0,4 3,7 7,7z"/>
+  <path class="fil18" d="M82 133c4,0 6,-3 6,-6 0,-3 -2,-6 -6,-6 -3,0 -6,3 -6,6 0,3 3,6 6,6z"/>
+  <path class="fil19" d="M82 123c0,0 1,0 1,0 0,0 -1,-1 -1,-1 0,0 0,1 0,1 0,0 0,0 0,0z"/>
+  <path class="fil19" d="M79 124c0,0 0,0 0,0 0,1 0,1 1,0 0,0 0,0 0,0 -1,-1 -1,-1 -1,0z"/>
+  <path class="fil19" d="M77 127c0,0 1,1 1,1 0,0 1,-1 1,-1 0,0 -1,-1 -1,-1 0,0 -1,1 -1,1z"/>
+  <path class="fil19" d="M79 130c0,1 0,1 1,0 0,0 0,0 0,0 -1,-1 -1,-1 -1,0 0,0 0,0 0,0z"/>
+  <path class="fil19" d="M82 132c0,0 1,-1 1,-1 0,0 -1,0 -1,0 0,0 0,0 0,0 0,0 0,1 0,1z"/>
+  <path class="fil19" d="M85 130c1,0 1,0 0,0 0,-1 0,-1 0,0 -1,0 -1,0 0,0 0,1 0,1 0,0z"/>
+  <path class="fil19" d="M87 127c0,0 0,0 -1,0 0,0 0,0 0,0 0,0 0,1 0,1 1,0 1,-1 1,-1z"/>
+  <path class="fil19" d="M85 124c0,0 0,0 0,0 -1,0 -1,0 0,1 0,0 0,0 0,0 1,-1 1,-1 0,-1z"/>
+  <path class="fil20" d="M82 130c2,0 3,-2 3,-3 0,-2 -1,-3 -3,-3 -1,0 -3,1 -3,3 0,1 2,3 3,3z"/>
+  <path class="fil21" d="M82 127c0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0z"/>
+  <path class="fil22" d="M164 120l-1 -1 -1 1 1 1 1 -1 0 0zm-13 2l0 1 1 1 0 -2 -1 0 0 0zm4 -3l-1 1 0 1 2 -1 -1 -1 0 0zm5 -1l-2 0 0 1 2 0 0 -1zm-10 8l0 2 1 0 0 -2 -1 0 0 0zm1 5l0 1 1 0 0 -2 -1 1 0 0zm3 3l1 1 1 -1 -2 -1 0 1 0 0zm4 2l2 0 0 -1 -2 0 0 1 0 0zm5 -1l1 -1 -1 -1 -1 1 1 1 0 0zm3 -3l1 -1 -1 -1 -1 2 1 0 0 0zm2 -4l0 -2 -2 0 0 2 2 0 0 0zm-1 -5l-1 -1 -1 0 1 2 1 -1z"/>
+  <path class="fil23" d="M159 135c4,0 8,-4 8,-8 0,-4 -4,-8 -8,-8 -5,0 -8,4 -8,8 0,4 3,8 8,8z"/>
+  <path class="fil17" d="M159 134c4,0 7,-3 7,-7 0,-4 -3,-7 -7,-7 -4,0 -7,3 -7,7 0,4 3,7 7,7z"/>
+  <path class="fil24" d="M159 133c3,0 6,-3 6,-6 0,-3 -3,-6 -6,-6 -4,0 -6,3 -6,6 0,3 2,6 6,6z"/>
+  <path class="fil19" d="M159 123c0,0 0,0 0,0 0,0 0,-1 0,-1 -1,0 -1,1 -1,1 0,0 0,0 1,0z"/>
+  <path class="fil19" d="M155 124c0,0 0,0 0,0 1,1 1,1 1,0 0,0 0,0 0,0 0,-1 0,-1 -1,0z"/>
+  <path class="fil19" d="M154 127c0,0 0,1 1,1 0,0 0,-1 0,-1 0,0 0,-1 0,-1 -1,0 -1,1 -1,1z"/>
+  <path class="fil19" d="M155 130c1,1 1,1 1,0 0,0 0,0 0,0 0,-1 0,-1 -1,0 0,0 0,0 0,0z"/>
+  <path class="fil19" d="M159 132c0,0 0,-1 0,-1 0,0 0,0 0,0 -1,0 -1,0 -1,0 0,0 0,1 1,1z"/>
+  <path class="fil19" d="M162 130c0,0 0,0 0,0 0,-1 -1,-1 -1,0 0,0 0,0 0,0 0,1 1,1 1,0z"/>
+  <path class="fil19" d="M163 127c0,0 0,0 0,0 0,0 -1,0 -1,0 0,0 1,1 1,1 0,0 0,-1 0,-1z"/>
+  <path class="fil19" d="M162 124c0,0 0,0 -1,0 0,0 0,0 0,1 1,0 1,0 1,0 0,-1 0,-1 0,-1z"/>
+  <path class="fil25" d="M159 130c1,0 2,-2 2,-3 0,-2 -1,-3 -2,-3 -2,0 -3,1 -3,3 0,1 1,3 3,3z"/>
+  <path class="fil21" d="M159 127c0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0z"/>
+  <path class="fil26" d="M137 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -3,0 -4,2 -4,4 0,2 1,4 4,4z"/>
+  <path class="fil17" d="M137 135c2,0 3,-2 3,-4 0,-2 -1,-4 -3,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil27" d="M137 134c1,0 3,-1 3,-3 0,-2 -2,-3 -3,-3 -2,0 -3,1 -3,3 0,2 1,3 3,3z"/>
+  <path class="fil28" d="M137 132c0,0 1,0 1,-1 0,-1 -1,-1 -1,-1 -1,0 -2,0 -2,1 0,1 1,1 2,1z"/>
+  <path class="fil29" d="M126 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil30" d="M126 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil31" d="M126 134c2,0 3,-1 3,-3 0,-2 -1,-3 -3,-3 -2,0 -3,1 -3,3 0,2 1,3 3,3z"/>
+  <path class="fil32" d="M126 132c1,0 1,0 1,-1 0,-1 0,-1 -1,-1 -1,0 -1,0 -1,1 0,1 0,1 1,1z"/>
+  <path class="fil33" d="M115 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil34" d="M115 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil35" d="M115 134c2,0 3,-1 3,-3 0,-2 -1,-3 -3,-3 -2,0 -3,1 -3,3 0,2 1,3 3,3z"/>
+  <path class="fil36" d="M115 132c1,0 1,0 1,-1 0,-1 0,-1 -1,-1 -1,0 -1,0 -1,1 0,1 0,1 1,1z"/>
+  <path class="fil37" d="M104 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil38" d="M104 135c2,0 4,-2 4,-4 0,-2 -2,-4 -4,-4 -2,0 -4,2 -4,4 0,2 2,4 4,4z"/>
+  <path class="fil39" d="M104 134c2,0 3,-1 3,-3 0,-2 -1,-3 -3,-3 -2,0 -3,1 -3,3 0,2 1,3 3,3z"/>
+  <path class="fil40" d="M104 132c1,0 1,0 1,-1 0,-1 0,-1 -1,-1 -1,0 -1,0 -1,1 0,1 0,1 1,1z"/>
+  <polygon class="fil41" points="146,123 96,123 96,128 96,128 96,128 101,132 105,132 107,130 111,130 113,132 117,132 119,130 122,130 124,132 128,132 130,130 133,130 135,132 139,132 141,130 144,130 146,128 "/>
+  <path class="fil42" d="M158 116l-76 0c-3,0 -5,1 -7,3l0 0c-2,2 -4,5 -4,8 0,3 2,6 4,8l0 0c2,2 4,3 7,3l76 0c3,0 6,-1 8,-3l0 0c2,-2 3,-5 3,-8 0,-3 -1,-6 -3,-8l0 0c-2,-2 -5,-3 -8,-3l0 0zm-76 3l76 0c2,0 4,1 6,2l0 0c1,2 2,4 2,6 0,3 -1,5 -2,6 -2,2 -4,3 -6,3l-76 0c-2,0 -4,-1 -6,-3l0 0c-1,-1 -2,-3 -2,-6 0,-2 1,-4 2,-6 2,-1 4,-2 6,-2z"/>
+  <polygon class="fil43" points="100,135 98,135 98,138 99,138 99,138 100,138 100,137 99,137 99,136 100,136 "/>
+  <polygon class="fil44" points="103,135 101,135 101,138 102,138 102,138 103,138 103,137 102,137 102,136 103,136 "/>
+  <polygon class="fil45" points="106,135 104,135 104,138 105,138 105,138 106,138 106,137 105,137 105,136 106,136 "/>
+  <polygon class="fil46" points="110,135 107,135 107,138 108,138 108,138 110,138 110,137 108,137 108,136 110,136 "/>
+  <polygon class="fil47" points="113,135 110,135 110,138 111,138 111,138 113,138 113,137 111,137 111,136 113,136 "/>
+  <polygon class="fil48" points="116,135 113,135 113,138 114,138 114,138 116,138 116,137 114,137 114,136 116,136 "/>
+  <polygon class="fil49" points="119,135 116,135 116,138 118,138 118,138 119,138 119,137 118,137 118,136 119,136 "/>
+  <polygon class="fil50" points="122,135 120,135 120,138 121,138 121,138 122,138 122,137 121,137 121,136 122,136 "/>
+  <polygon class="fil51" points="125,135 123,135 123,138 124,138 124,138 125,138 125,137 124,137 124,136 125,136 "/>
+  <polygon class="fil52" points="128,135 126,135 126,138 127,138 127,138 128,138 128,137 127,137 127,136 128,136 "/>
+  <polygon class="fil53" points="131,135 129,135 129,138 130,138 130,138 131,138 131,137 130,137 130,136 131,136 "/>
+  <polygon class="fil54" points="134,135 132,135 132,138 133,138 133,138 134,138 134,137 133,137 133,136 134,136 "/>
+  <polygon class="fil55" points="137,135 135,135 135,138 136,138 136,138 137,138 137,137 136,137 136,136 137,136 "/>
+  <polygon class="fil56" points="140,135 138,135 138,138 139,138 139,138 140,138 140,137 139,137 139,136 140,136 "/>
+  <polygon class="fil57" points="143,135 141,135 141,138 142,138 142,138 143,138 143,137 142,137 142,136 143,136 "/>
+  <polygon class="fil58" points="146,135 144,135 144,138 145,138 145,138 146,138 146,137 145,137 145,136 146,136 "/>
+  <polygon class="fil59" points="149,135 147,135 147,138 148,138 148,138 149,138 149,137 148,137 148,136 149,136 "/>
+  <polygon class="fil60" points="152,135 150,135 150,138 151,138 151,138 152,138 152,137 151,137 151,136 152,136 "/>
+  <polygon class="fil61" points="156,135 153,135 153,138 154,138 154,138 156,138 156,137 154,137 154,136 156,136 "/>
+  <polygon class="fil62" points="159,135 156,135 156,138 157,138 157,138 159,138 159,137 157,137 157,136 159,136 "/>
+  <polygon class="fil63" points="79,135 77,134 76,137 77,137 77,137 78,137 79,137 78,136 78,136 79,136 "/>
+  <polygon class="fil64" points="82,136 80,135 79,138 80,138 81,138 82,138 82,137 81,137 81,136 82,136 "/>
+  <polygon class="fil65" points="85,135 83,135 83,138 84,138 84,138 85,138 85,137 84,137 84,136 85,136 "/>
+  <polygon class="fil66" points="88,135 86,135 86,138 87,138 87,138 88,138 88,137 87,137 87,136 88,136 "/>
+  <polygon class="fil67" points="91,135 89,135 89,138 90,138 90,138 91,138 91,137 90,137 90,136 91,136 "/>
+  <polygon class="fil68" points="94,135 92,135 92,138 93,138 93,138 94,138 94,137 93,137 93,136 94,136 "/>
+  <polygon class="fil69" points="97,135 95,135 95,138 96,138 96,138 97,138 97,137 96,137 96,136 97,136 "/>
+  <polygon class="fil70" points="76,134 75,132 73,133 73,134 74,134 75,135 75,135 74,134 75,133 76,134 "/>
+  <polygon class="fil71" points="75,131 74,129 71,130 71,131 72,131 72,132 73,132 73,131 74,130 74,132 "/>
+  <polygon class="fil72" points="74,126 75,124 72,123 71,124 72,124 72,125 72,125 73,124 74,124 73,126 "/>
+  <polygon class="fil73" points="74,129 74,126 71,126 71,127 72,127 71,128 72,128 72,127 73,127 73,129 "/>
+  <polygon class="fil74" points="75,123 76,121 74,119 73,120 74,121 73,122 74,122 74,121 75,121 74,122 "/>
+  <polygon class="fil75" points="76,121 78,120 77,117 76,118 76,118 75,119 76,119 76,119 77,119 76,120 "/>
+  <polygon class="fil76" points="79,119 81,119 80,116 79,116 79,117 78,117 78,118 79,117 80,118 78,118 "/>
+  <polygon class="fil77" points="81,119 84,119 84,116 82,116 82,116 81,116 81,117 82,117 82,118 81,118 "/>
+  <polygon class="fil78" points="84,119 87,119 87,116 86,116 86,116 84,116 84,117 86,117 86,118 84,118 "/>
+  <polygon class="fil79" points="87,119 90,119 90,116 89,116 89,116 87,116 87,117 89,117 89,118 87,118 "/>
+  <polygon class="fil80" points="91,119 93,119 93,116 92,116 92,116 91,116 91,117 92,117 92,118 91,118 "/>
+  <polygon class="fil81" points="94,119 96,119 96,116 95,116 95,116 94,116 94,117 95,117 95,118 94,118 "/>
+  <polygon class="fil82" points="97,119 99,119 99,116 98,116 98,116 97,116 97,117 98,117 98,118 97,118 "/>
+  <polygon class="fil83" points="100,119 102,119 102,116 101,116 101,116 100,116 100,117 101,117 101,118 100,118 "/>
+  <polygon class="fil84" points="103,119 105,119 105,116 104,116 104,116 103,116 103,117 104,117 104,118 103,118 "/>
+  <polygon class="fil85" points="106,119 108,119 108,116 107,116 107,116 106,116 106,117 107,117 107,118 106,118 "/>
+  <polygon class="fil86" points="109,119 111,119 111,116 110,116 110,116 109,116 109,117 110,117 110,118 109,118 "/>
+  <polygon class="fil87" points="112,119 114,119 114,116 113,116 113,116 112,116 112,117 113,117 113,118 112,118 "/>
+  <polygon class="fil88" points="115,119 117,119 117,116 116,116 116,116 115,116 115,117 116,117 116,118 115,118 "/>
+  <polygon class="fil89" points="118,119 120,119 120,116 119,116 119,116 118,116 118,117 119,117 119,118 118,118 "/>
+  <polygon class="fil90" points="121,119 123,119 123,116 122,116 122,116 121,116 121,117 122,117 122,118 121,118 "/>
+  <polygon class="fil91" points="124,119 126,119 126,116 125,116 125,116 124,116 124,117 125,117 125,118 124,118 "/>
+  <polygon class="fil92" points="127,119 130,119 130,116 128,116 128,116 127,116 127,117 128,117 128,118 127,118 "/>
+  <polygon class="fil93" points="130,119 133,119 133,116 132,116 132,116 130,116 130,117 132,117 132,118 130,118 "/>
+  <polygon class="fil94" points="133,119 136,119 136,116 135,116 135,116 133,116 133,117 135,117 135,118 133,118 "/>
+  <polygon class="fil95" points="137,119 139,119 139,116 138,116 138,116 137,116 137,117 138,117 138,118 137,118 "/>
+  <polygon class="fil96" points="140,119 142,119 142,116 141,116 141,116 140,116 140,117 141,117 141,118 140,118 "/>
+  <polygon class="fil97" points="143,119 145,119 145,116 144,116 144,116 143,116 143,117 144,117 144,118 143,118 "/>
+  <polygon class="fil98" points="146,119 148,119 148,116 147,116 147,116 146,116 146,117 147,117 147,118 146,118 "/>
+  <polygon class="fil99" points="149,119 151,119 151,116 150,116 150,116 149,116 149,117 150,117 150,118 149,118 "/>
+  <polygon class="fil100" points="152,119 154,119 154,116 153,116 153,116 152,116 152,117 153,117 153,118 152,118 "/>
+  <polygon class="fil101" points="155,119 157,119 157,116 156,116 156,116 155,116 155,117 156,117 156,118 155,118 "/>
+  <polygon class="fil102" points="158,119 160,119 160,116 159,116 159,116 158,116 158,117 159,117 159,118 158,118 "/>
+  <polygon class="fil103" points="161,119 163,120 164,117 163,117 163,117 162,117 162,117 163,118 162,119 161,118 "/>
+  <polygon class="fil104" points="164,121 165,122 167,121 167,120 166,120 166,119 165,120 166,120 165,121 164,120 "/>
+  <polygon class="fil105" points="166,123 166,125 169,124 169,123 168,123 168,122 167,122 167,123 167,124 166,123 "/>
+  <polygon class="fil106" points="166,128 166,130 168,131 169,130 168,130 168,129 168,129 167,130 167,130 167,129 "/>
+  <polygon class="fil107" points="166,126 166,128 169,128 169,127 169,127 169,126 168,126 168,127 167,127 167,126 "/>
+  <polygon class="fil108" points="165,131 164,133 166,135 167,134 166,134 167,133 167,132 166,133 165,133 166,132 "/>
+  <polygon class="fil109" points="164,133 162,135 164,137 164,137 164,136 165,135 165,135 164,135 163,135 164,134 "/>
+  <polygon class="fil110" points="162,135 159,135 160,138 161,138 161,137 162,137 162,137 161,137 161,136 162,136 "/>
+  <path class="fil111" d="M105 90c1,0 1,0 1,1 0,0 0,0 -1,0l-34 0c0,0 0,0 0,0 0,-1 0,-1 0,-1l34 0z"/>
+  <path class="fil112" d="M106 89c1,0 1,1 1,2 0,0 0,1 -1,1l-21 0c-1,0 -1,-1 -1,-1 0,-1 0,-2 1,-2l21 0z"/>
+  <path class="fil113" d="M68 89c1,-2 3,-2 4,0 2,1 2,3 1,4 -1,1 -3,1 -5,0 -1,-1 -1,-3 0,-4z"/>
+  <path class="fil114" d="M69 89c1,-1 2,-1 3,0 1,1 1,2 0,3 -1,1 -2,1 -3,0 -1,-1 -1,-2 0,-3z"/>
+  <path class="fil115" d="M114 90c0,0 -2,2 -9,3 -7,0 -25,1 -29,4 -4,3 -7,13 -11,20 -4,7 -7,10 -9,11 -2,1 -3,4 -1,5 3,1 7,0 11,-4 4,-4 17,-20 17,-20l32 -13 -1 -6z"/>
+  <path class="fil116" d="M55 133c2,0 3,0 5,0 2,-1 4,-2 6,-4 4,-4 17,-21 17,-21l0 0 0 0 32 -12 0 1 -32 12c-1,1 -13,17 -17,20 -2,2 -4,3 -6,4 -2,1 -3,1 -5,0l0 0z"/>
+  <path class="fil117" d="M114 91c0,0 -2,1 -9,2 -2,0 -4,0 -7,0 -8,1 -19,2 -22,4 -2,2 -4,7 -7,12 -1,2 -2,5 -4,8 -1,3 -3,5 -4,7 -2,2 -3,4 -5,4 0,1 -1,1 -1,2 -1,0 -1,1 -1,1 0,0 0,1 1,1l0 0c0,0 0,1 0,1l0 0c0,0 -1,0 -1,-1l0 0c0,0 0,0 0,-1l0 0c0,0 0,-1 0,-1 0,-1 1,-2 2,-2 1,-1 3,-2 4,-4 2,-2 3,-4 5,-7 1,-3 3,-6 4,-9 2,-5 4,-9 7,-11 3,-3 14,-4 22,-4 3,0 5,-1 7,-1 7,-1 8,-2 8,-2l1 1z"/>
+  <path class="fil118" d="M113 110c1,0 1,1 1,1 0,0 0,0 -1,0l-34 1c0,0 0,-1 0,-1 0,0 0,-1 0,-1l34 0z"/>
+  <path class="fil119" d="M113 110c0,0 1,0 1,1 0,1 -1,1 -1,1l-21 0c-1,0 -2,0 -2,-1 0,-1 1,-1 2,-1l21 0z"/>
+  <path class="fil120" d="M76 109c2,-1 3,-1 5,0 1,1 1,3 0,4 -1,1 -3,1 -4,0 -2,-1 -2,-3 -1,-4z"/>
+  <path class="fil121" d="M77 109c1,0 2,-1 3,0 1,1 1,3 0,4 -1,0 -2,0 -3,0 -1,-1 -1,-3 0,-4z"/>
+  <path class="fil122" d="M117 93c0,0 5,11 6,13 1,2 4,2 6,2 3,0 46,0 46,0l0 -16 -58 1z"/>
+  <path class="fil123" d="M117 93c0,0 5,9 6,11 1,2 4,2 6,2 3,0 46,0 46,0l0 -14 -58 1z"/>
+  <path class="fil124" d="M110 91c2,-2 4,-2 6,0 2,2 2,4 0,6 -1,2 -4,2 -6,0 -1,-1 -2,-4 0,-6z"/>
+  <path class="fil125" d="M111 92c1,-2 3,-2 4,0 2,1 2,3 1,4 -2,2 -4,2 -5,0 -1,-1 -1,-3 0,-4z"/>
+  <polygon class="fil126" points="125,91 138,91 138,91 125,91 "/>
+  <polygon class="fil17" points="125,91 138,91 138,90 125,90 "/>
+  <polygon class="fil113" points="125,93 138,93 138,93 125,93 "/>
+  <polygon class="fil17" points="125,93 138,93 138,92 125,92 "/>
+  <polygon class="fil113" points="125,95 138,95 138,94 125,94 "/>
+  <polygon class="fil17" points="125,94 138,94 138,94 125,94 "/>
+  <polygon class="fil113" points="125,97 138,97 138,96 125,96 "/>
+  <polygon class="fil17" points="125,96 138,96 138,96 125,96 "/>
+  <polygon class="fil113" points="125,99 138,99 138,98 125,98 "/>
+  <polygon class="fil17" points="125,98 138,98 138,97 125,97 "/>
+  <polygon class="fil113" points="125,101 138,101 138,100 125,100 "/>
+  <polygon class="fil17" points="125,100 138,100 138,99 125,99 "/>
+  <polygon class="fil113" points="125,103 138,103 138,102 125,102 "/>
+  <polygon class="fil17" points="125,102 138,102 138,101 125,101 "/>
+  <polygon class="fil9" points="151,89 152,89 148,94 148,92 "/>
+  <polygon class="fil9" points="151,89 152,89 148,94 148,92 "/>
+  <polygon class="fil9" points="151,89 152,89 148,94 148,92 "/>
+  <polygon class="fil9" points="154,89 156,89 150,95 148,95 "/>
+  <polygon class="fil9" points="158,89 160,89 154,95 152,95 "/>
+  <polygon class="fil9" points="161,89 163,89 157,95 156,95 "/>
+  <polygon class="fil9" points="165,89 167,89 161,95 159,95 "/>
+  <polygon class="fil9" points="169,89 171,89 165,95 163,95 "/>
+  <polygon class="fil9" points="172,89 174,89 168,95 166,95 "/>
+  <polygon class="fil9" points="174,91 174,93 172,95 170,95 "/>
+ </g>
+</svg>

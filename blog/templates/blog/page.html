@@ -1,0 +1,45 @@
+{% extends "blog/base.html" %}
+{% load static %}
+
+
+{% block content %}
+
+<div class="feedback">
+    <div class="center w-container">
+      <div>
+        <h1 class="main-header">
+          {{ post.header_page }}
+        </h1>
+      </div>
+      <div class="w-row">
+        <div class="w-col w-col-6">
+          <div class="feedback-block-image w-clearfix">
+            <img class="feedback-image" src={{ post.form_image }} alt="" width="600">
+          </div>
+        </div>
+        <div class="w-clearfix w-col w-col-6">
+          <div class="contact-form w-form">
+            <div class="feedback-text">
+              {{ post.form_header }}
+            </div>
+           <form method="post" novalidate="novalidate">
+                    {% csrf_token %}
+                    {{ form }}
+                    <input type="submit" value="ЗАПИСАТЬСЯ НА РЕМОНТ" class="submit-button w-button" />
+           </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+{{ post.text|safe }}
+
+{% endblock %}
+
+
+
+
+
+

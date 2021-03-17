@@ -1,0 +1,11 @@
+ *.pyc
+*~
+__pycache__
+bin
+lib
+lib64
+share
+.DS_Store
+.vscode
+manage.py
+pyvenv.cfg
